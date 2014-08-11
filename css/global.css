@@ -64,12 +64,7 @@ body { background: url(../images/bg.jpg) repeat center; }
 	margin: 0 auto; } 
 	
 #columns { 
-	margin-bottom: 10px;
-	padding-bottom: 30px;
-	border-bottom: 5px solid #201e1b;
 	display: block;
-	overflow: auto;
-	height: 2320px;
 	width: 1024px; }
 	
 	
