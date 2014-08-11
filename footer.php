@@ -17,7 +17,9 @@
 <div id="rightcolumn">
 	<div class="h3container"><h3>Downloadable Menus</h3></div>
 
-	<?php dynamic_sidebar( 'Menus' ); ?>
+	<ul>
+		<?php dynamic_sidebar( 'Menus' ); ?>
+	</ul>
 	
 	<div class="h3container"><h3>Twitter</h3></div>
 	
