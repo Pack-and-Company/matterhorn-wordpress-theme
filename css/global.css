@@ -253,7 +253,7 @@ body { background: url(../images/bg.jpg) repeat center; }
 			color: #c22226;
 			 }
 
-			.menu-item a img { padding: 10px }
+			.menu-item a img { padding: 10px 0 }
 			.menu-item a:hover { color: #201e1b; }
 
 	#facebooklike { 
