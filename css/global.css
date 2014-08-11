@@ -253,8 +253,8 @@ body { background: url(../images/bg.jpg) repeat center; }
 			color: #c22226;
 			 }
 
-			.menu-item div { padding: 8px 0; display: block; }
-			.menu-item:hover { color: #201e1b; }
+			.menu-item a { padding: 8px 0; display: block; }
+			.menu-item a:hover { color: #201e1b; }
 
 	#facebooklike { 
 		 background: url(../images/like-facebook.png) no-repeat center 20px;
