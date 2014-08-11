@@ -7,7 +7,7 @@
 	
 	<div class="h3container"><h3>Info / Contact</h3></div>
 	
-	<ul>
+	<ul class="menu">
 		<?php dynamic_sidebar( 'Info / Contact' ); ?>
 	</ul>
 
