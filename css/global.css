@@ -231,8 +231,12 @@ body { background: url(../images/bg.jpg) repeat center; }
 			margin-bottom: 20px;
 			margin-bottom: 100px; }
 			
-	#menuitems { padding-bottom: 20px; }
-	.menuitem { 
+	#menuitems,
+	menu { 
+		padding-bottom: 20px; 
+	}
+	.menuitem,
+	.menu-item { 
 		padding: 0 20px 20px 20px;
 		font-family: 'serifa65_bold', "Courier New", Courier, monospace;
 		font-size: 14px;
