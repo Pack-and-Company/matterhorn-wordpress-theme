@@ -246,15 +246,15 @@ body { background: url(../images/bg.jpg) repeat center; }
 		-webkit-transition: all .3s; /* Safari and Chrome */
 		-o-transition: all .3s; /* Opera */ }
 
-		.menuitem a:link, 
-		.menuitem a:visited { 
+		.menu-item a:link, 
+		.menu-item a:visited { 
 			text-decoration: none;
 			display: block;
 			color: #c22226;
 			 }
 
-			.menuitem div { padding: 8px 0; display: block; }
-			.menuitem:hover { color: #201e1b; }
+			.menu-item div { padding: 8px 0; display: block; }
+			.menu-item:hover { color: #201e1b; }
 
 	#facebooklike { 
 		 background: url(../images/like-facebook.png) no-repeat center 20px;
