@@ -2,7 +2,6 @@
 
 register_nav_menus( array('primary' => 'Menus') );
 register_sidebar( array('name' => 'Info / Contact') );
-register_sidebar( array('name' => 'Menus') );
 
 add_theme_support( 'automatic-feed-links' );
 
