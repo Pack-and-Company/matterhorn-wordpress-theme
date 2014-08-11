@@ -86,7 +86,7 @@ body { background: url(../images/bg.jpg) repeat center; }
 	-moz-transition: all .5s; /* Firefox 4 */
 	-webkit-transition: all .5s; /* Safari and Chrome */
 	-o-transition: all .5s; /* Opera */ }
-	
+
 /*	h1:hover { 
 		-webkit-transform: rotate(-180deg); 
 		-moz-transform: rotate(-180deg); }*/
@@ -299,3 +299,7 @@ body { background: url(../images/bg.jpg) repeat center; }
 			-moz-border-radius: 5px;
 			border-radius: 5px; }
 
+
+ul.menu {
+	list-style-type: none;
+}
