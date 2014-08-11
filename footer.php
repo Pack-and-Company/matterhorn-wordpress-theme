@@ -20,7 +20,7 @@
 	<div class="h3container"><h3>Downloadable Menus</h3></div>
 
 	<ul>
-		<?php dynamic_sidebar( 'Menus' ); ?>
+		<?php wp_nav_menu( 'Menus' ); ?>
 	</ul>
 
 	<div class="h3container"><h3>Twitter</h3></div>
