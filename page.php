@@ -4,6 +4,6 @@
   <h1><?php the_title(); ?></h1>
   <?php the_content(); ?>
 <?php endwhile; wp_reset_query(); ?>
-
-<?php get_sidebar(); ?>
+<?php get_sidebar('Menus'); ?>
+<?php get_sidebar('Info / Contact'); ?>
 <?php get_footer(); ?>
