@@ -7,8 +7,10 @@
 	
 	<div class="h3container"><h3>Info / Contact</h3></div>
 	
-	<?php dynamic_sidebar( 'Info / Contact' ); ?>
-	
+	<ul>
+		<?php dynamic_sidebar( 'Info / Contact' ); ?>
+	</ul>
+
 </div> <!-- /leftcolumn -->
 	
 	
@@ -20,7 +22,7 @@
 	<ul>
 		<?php dynamic_sidebar( 'Menus' ); ?>
 	</ul>
-	
+
 	<div class="h3container"><h3>Twitter</h3></div>
 	
 	<div id="tweet-box"> 
