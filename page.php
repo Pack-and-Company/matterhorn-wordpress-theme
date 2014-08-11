@@ -4,7 +4,4 @@
   <?php the_content(); ?>
 <?php endwhile; wp_reset_query(); ?>
 
-<?php dynamic_sidebar( 'Menus' ); ?>
-<?php dynamic_sidebar( 'Info / Contact' ); ?>
-
 <?php get_footer(); ?>
