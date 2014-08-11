@@ -232,7 +232,7 @@ body { background: url(../images/bg.jpg) repeat center; }
 			margin-bottom: 100px; }
 			
 	#menuitems,
-	menu { 
+	.menu { 
 		padding-bottom: 20px; 
 	}
 	.menuitem,
