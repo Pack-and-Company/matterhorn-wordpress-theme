@@ -1,6 +1,6 @@
 <?php
 
-register_nav_menus( array('primary' => 'Primary Menu') );
+register_nav_menus( array('primary' => 'Menus') );
 register_sidebar( array('name' => 'Info / Contact') );
 register_sidebar( array('name' => 'Menus') );
 
