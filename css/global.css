@@ -300,6 +300,7 @@ body { background: url(../images/bg.jpg) repeat center; }
 			border-radius: 5px; }
 
 
+.widget_nav_menu,
 ul.menu {
 	list-style-type: none;
 }
