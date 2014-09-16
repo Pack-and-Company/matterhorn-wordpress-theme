@@ -11,9 +11,6 @@
 		<?php dynamic_sidebar( 'Info / Contact' ); ?>
 	</ul>
 
-	<div class="h3container" ><h3>Book a Table</h3></div>
-	<iframe src="https://nz3.eveve.com/tms/DateCovers.php?Est=matterhorn" frameborder="0" style="height:600px;width:400px;">Looks like you're using an older browser. Please call us to book a table.</iframe>
-
 </div> <!-- /leftcolumn -->
 	
 	
