@@ -25,5 +25,3 @@
 <div id="columns">
 
 <div id="leftcolumn">
-
-<div id="textarea">

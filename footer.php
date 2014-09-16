@@ -1,5 +1,3 @@
-</div>
-
 	
 	<div id="yomamma">
 		<div id="squiggle"> </div>
