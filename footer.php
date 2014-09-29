@@ -28,7 +28,8 @@
 		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 	</div>
 	
-	<a href="http://www.facebook.com/MatterhornSince1963" target="_blank"><div id="facebooklike">Like Us on Facebook</div></a>
+	<a href="http://www.facebook.com/MatterhornSince1963" target="_blank"><div class="social facebook">Like Us on Facebook</div></a>
+	<a href="http://instagram.com/matterhornsince1963" target="_blank"><div class="social instagram">Follow Us on Instagram</div></a>
 </div> <!-- /rightcolumn -->
 </div><!-- /columns -->
 </div><!-- /container -->

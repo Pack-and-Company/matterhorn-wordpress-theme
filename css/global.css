@@ -251,14 +251,16 @@ body { background: url(../images/bg.jpg) repeat center; }
 			.menu-item a img { padding: 10px 0 }
 			.menu-item a:hover { color: #201e1b; }
 
-	#facebooklike { 
-		 background: url(../images/like-facebook.png) no-repeat center 20px;
-		 border-top: 2px solid #201e1b; 
-		 text-indent: -9999px;
-		 margin-top: 15px;
-		 width: 383px;
-		 height: 125px; }
-	#facebooklike:hover { background-position: center -400px; }
+	.facebook { background: url(../images/like-facebook.png) no-repeat center 20px; }
+    .instagram { background: url(../images/follow-instagram.png) no-repeat center 20px; }
+	.social {
+		border-top: 2px solid #201e1b; 
+		text-indent: -9999px;
+		margin-top: 15px;
+		width: 383px;
+		height: 125px; 
+	}
+	.social:hover { background-position: center -400px; }
 		 
 	#injecticon {
 		display: block;
