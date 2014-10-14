@@ -156,7 +156,6 @@ body { background: url(../images/bg.jpg) repeat center; }
 		#textarea a:link, 
 		#textarea a:visited { 
 			text-decoration: none;
-			display: block;
 			color: #c22226;
 			 }
 		#textarea a:hover { color: #201e1b; }
