@@ -152,6 +152,14 @@ body { background: url(../images/bg.jpg) repeat center; }
 		padding:  0 45px 40px 30px; 
 		margin-bottom: 0;
 		border-bottom: 2px solid #201e1b; }
+
+		#textarea a:link, 
+		#textarea a:visited { 
+			text-decoration: none;
+			display: block;
+			color: #c22226;
+			 }
+		#textarea a:hover { color: #201e1b; }
 		
 	#yomamma {
 		display: block;
